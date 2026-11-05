@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commerce-extensions-nuxt",
+  "capabilityKey": "planned:ecommerce:commerce-extensions",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-commerce-extensions-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/commerce-extensions.md",
+  "presentationPlan": "projects/ecommerce/nuxt/commerce-extensions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
